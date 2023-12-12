@@ -14,13 +14,14 @@ public class App {
         preguntas[5] = "De que color es doraemon?";                     respuestas[5] = "Azul";
         preguntas[6] = "¿Cuantos mundailes tiene españa?";              respuestas[6] = "1";
         preguntas[7] = "¿Mejor equipo de Sevilla?";                     respuestas[7] = "Sevilla";
-        preguntas[8] = "¿Deporte mas seguido de espaaña?";               respuestas[8] = "Futbol";
+        preguntas[8] = "¿Deporte mas seguido de espaaña?";              respuestas[8] = "Futbol";
         preguntas[9] = "¿Cuanto es 2 + 2?";                             respuestas[9] = "4";
-        preguntas[10] = "¿?";respuestas[0] = "";
-        preguntas[11] = "¿?";respuestas[0] = "";
-        preguntas[12] = "¿?";respuestas[0] = "";
-        preguntas[13] = "¿?";respuestas[0] = "";
-        preguntas[14] = "¿?";respuestas[0] = "";
+        preguntas[10] = "¿Soy guapo?";                                  respuestas[10] = "Si";
+        preguntas[11] = "¿Me gusta el cine?";                           respuestas[11] = "Si";
+        preguntas[12] = "¿Tios antes que tias?";                        respuestas[12] = "Si";
+        preguntas[13] = "¿Betis o Sevilla?";                            respuestas[13] = "Si";
+        preguntas[14] = "¿Me gusta el futbol?";                         respuestas[14] = "Si";
+        
 
     }
 }
